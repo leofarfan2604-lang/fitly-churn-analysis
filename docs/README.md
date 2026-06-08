@@ -1,3 +1,3 @@
 # Documentation
 
-   Place data dictionaries, project notes, and reference materials here.
+   Instructions from the app team.
